@@ -5,7 +5,7 @@ int main()
 	printf("   Hello World  ");
 		printf("   Hello World  ");
 		int a = 0;
-		scanf("%d ", &a);
+		//scanf("%d ", &a);
 printf("   Hello World  ");
 printf("   Hello World  ");
 
